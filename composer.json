@@ -1,0 +1,10 @@
+{
+    "name": "jreinke/magento-admin-theme",
+    "type": "magento-module",
+    "authors":[
+        {
+            "name":"Johann Reinké",
+            "email":"info@example.com"
+        }
+    ]
+}
